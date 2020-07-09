@@ -1,0 +1,55 @@
+.container{margin-bottom: 100px;}
+.nav-font-position{
+    position: relative;
+    left: 475px;
+}
+.top-button-decoretion{
+    border: none;
+    background-color: green;
+    border-radius: 20px;
+    color: white;
+    padding:10px 20px;
+
+}
+.logo-size{
+    height: 65px;
+    width: 225px;
+}
+
+.head-background{background-color: #f8f9fa;
+                margin-bottom: 100px;
+                height: 600px;}
+.col-md-5 img{ width: 100%;}
+
+.head{
+    padding-top: 75px;
+}
+.are{color: tomato;}
+.learn-on{font-weight: 900; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+span{color: green;}
+.cat{height: 100px; width: 75px;}
+
+.cat1, .cat3, .cat4{text-align: center; padding:50px; background-color: #f8f9fa; border-radius: 30px; }
+.cat2{ text-align: center; padding:50px; background-color: white; box-shadow: 10px 10px 20px gray; border-radius: 30px;}
+.online{text-align: center; color: rgb(0, 147, 196); font-family: serif; font-weight: 600;}
+.card-bottom{ height: 30px; width: 30px;}
+.card{background-color: white;
+border-radius: 20px;
+box-shadow: 10px 10px 20px gray;}
+
+.align{text-align: center;
+font-family: 'Times New Roman', Times, serif;}
+.testmonial-img{height: 100px; width: 100px;}
+.pain{height: 150px;
+width: 150px;
+position: relative;
+bottom: 120px;
+left: 70px;}
+
+.last-part{background-color: rgb(17, 11, 11);
+color: white;
+padding: 70px 100px;}
+.last-header{font-weight: 900px; font-family: fantasy;}
+#end{text-align: center;
+background-color:rgb(17, 11, 11) ;
+color: white;}
